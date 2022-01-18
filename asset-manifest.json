@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monkey/static/css/main.fa979574.css",
+    "main.js": "/monkey/static/js/main.84a21f34.js",
+    "static/media/background.png": "/monkey/static/media/background.504d5746d04674328c89.png",
+    "static/media/Perfil.png": "/monkey/static/media/Perfil.5e883ce1c95967e1cee9.png",
+    "static/media/RoadMap.jfif": "/monkey/static/media/RoadMap.4b8ae7d032fe9a192485.jfif",
+    "static/media/macaco5.jfif": "/monkey/static/media/macaco5.23d380257402ed4a81b0.jfif",
+    "static/media/macaco4.jfif": "/monkey/static/media/macaco4.fdb574f69f5a39c26848.jfif",
+    "static/media/macaco2.jfif": "/monkey/static/media/macaco2.4fc8bb8d262b58cb07e1.jfif",
+    "static/media/macaco1.jfif": "/monkey/static/media/macaco1.247d4cdf008702619d77.jfif",
+    "static/media/macaco3.jfif": "/monkey/static/media/macaco3.6933b6f4f97eecf51914.jfif",
+    "static/media/team.png": "/monkey/static/media/team.3a602183be1609932ac2.png",
+    "index.html": "/monkey/index.html",
+    "main.fa979574.css.map": "/monkey/static/css/main.fa979574.css.map",
+    "main.84a21f34.js.map": "/monkey/static/js/main.84a21f34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa979574.css",
+    "static/js/main.84a21f34.js"
+  ]
+}
